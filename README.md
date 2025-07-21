@@ -38,7 +38,7 @@ Sri Lanka
 - 📧 *brewandbean.cafe@gmail.com*
 - 📞 *+94 71 255 3900*
 - 📸 Instagram: https://www.instagram.com/brewandbean_cafe 
-- 🌐 Website: Coming Soon
+- 🌐 Website: www.brewandbean.com
 
 ---
 
@@ -63,6 +63,15 @@ Looking to collaborate or host an event at Brew & Bean?
 We love working with local creators, small businesses, and artists. Reach out and let’s brew something amazing together!
 
 ---
+
+## 🛠 Built With / Tools Used
+
+- 🔤 *HTML5 / CSS3 / JavaScript* – for web interface  
+- 🎨 *Canva / Figma* – for design and branding  
+- 🌐 *GitHub* – for project version control and sharing  
+- 📱 *Instagram / WhatsApp* – for customer engagement  
+- 🗺 *Google Maps / Google My Business* – for location & visibility  
+- 🧾 *Linktree / bio.site* – for smart links in Instagram bio
 
 *Thank you for choosing Brew & Bean — where every cup is crafted with care.*  
 ☕ Sip. Relax. Repeat.
