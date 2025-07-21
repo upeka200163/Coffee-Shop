@@ -36,7 +36,7 @@ Sri Lanka
 ## 📬 Contact Us
 
 - 📧 *brewandbean.cafe@gmail.com*
-- 📞 *+94 77 123 4567*
+- 📞 *+94 71 255 3900*
 - 📸 Instagram: https://www.instagram.com/brewandbean_cafe 
 - 🌐 Website: Coming Soon
 
