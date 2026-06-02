@@ -8,13 +8,6 @@ Built with modern web technologies and clean UI/UX principles, Brew & Bean deliv
 
 ---
 
-# 🌍 Live Preview
-
-🔗 **Live Demo:**
-[Add Your Live Demo Link Here]
-
----
-
 # ✨ Project Overview
 
 Brew & Bean is more than just a coffee shop website—it's a digital representation of a cozy café experience.
