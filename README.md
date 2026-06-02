@@ -2,7 +2,7 @@
 
 > **"Where every brew begins with the perfect bean and ends with your perfect moment."**
 
-Brew & Bean is a modern and responsive coffee shop website designed to showcase a premium café experience. Inspired by the warmth of specialty coffee culture, the platform highlights handcrafted beverages, delicious food offerings, and a welcoming atmosphere that brings people together.
+Brew & Bean is a modern and responsive coffee shop website designed to showcase a premium café experience. Inspired by the warmth of specialty   coffee culture, the platform highlights handcrafted beverages, delicious food offerings, and a welcoming atmosphere that brings people together.
 
 Built with modern web technologies and clean UI/UX principles, Brew & Bean delivers an engaging digital experience for coffee lovers and café visitors.
 
@@ -114,28 +114,6 @@ Optimized for:
 
 ---
 
-# 📍 Location
-
-**Brew & Bean Café**
-No. 123, Galle Road,
-Colombo 03,
-Sri Lanka
-
-🕒 **Opening Hours:**
-Daily | 7:00 AM – 9:00 PM
-
----
-
-# 📬 Contact Information
-
-📧 Email: [brewandbean.cafe@gmail.com](mailto:brewandbean.cafe@gmail.com)<br>
-📞 Phone: +94 71 255 3900
-
-📸 Instagram: @brewandbean_cafe<br>
-🌐 Website: [www.brewandbean.com](http://www.brewandbean.com)
-
----
-
 # 🚀 Future Plans
 
 * ☕ Online Ordering System
@@ -180,6 +158,6 @@ brew-and-bean/
 ---
 
 Thank you for choosing Brew & Bean — where every cup is crafted with care.
-## ☕ "Sip. Relax. Repeat."
+              ## ☕ "Sip. Relax. Repeat."
 
 
