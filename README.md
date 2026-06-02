@@ -178,6 +178,7 @@ brew-and-bean/
 ```
 
 ---
+
 Thank you for choosing Brew & Bean — where every cup is crafted with care.
 ## ☕ "Sip. Relax. Repeat."
 
