@@ -34,25 +34,23 @@ Designed with a modern aesthetic and responsive layout, the website ensures a se
 # 🌱 About Brew & Bean
 
 Nestled in the heart of Colombo, Brew & Bean offers freshly brewed coffee, handcrafted beverages, and delicious food in a warm and inviting environment.
-
 Whether you're starting your day, meeting friends, or enjoying a quiet moment, Brew & Bean provides the perfect space to relax and recharge.
 
 ---
 
 # 🛎️ What We Offer
 
-✔️ Barista-Crafted Coffee & Espresso
-✔️ Signature Iced Beverages & Smoothies
-✔️ Fresh Pastries & Light Meals
-✔️ Cozy Seating & Free Wi-Fi
-✔️ Friendly Service & Community Atmosphere
+✔️ Barista-Crafted Coffee & Espresso <br />
+✔️ Signature Iced Beverages & Smoothies <br />
+✔️ Fresh Pastries & Light Meals <br />
+✔️ Cozy Seating & Free Wi-Fi <br />
+✔️ Friendly Service & Community Atmosphere <br />
 
 ---
 
 # 🎯 Our Mission
 
 To brew happiness, one cup at a time.
-
 Our goal is to create a welcoming environment where coffee enthusiasts can enjoy exceptional beverages, meaningful conversations, and memorable experiences.
 
 ---
@@ -107,12 +105,12 @@ Optimized for:
 
 # 🎨 Design Highlights
 
-✨ Modern Coffee Shop Branding
-✨ Responsive User Interface
-✨ Clean Typography & Layouts
-✨ Customer-Friendly Navigation
-✨ Optimized User Experience (UX)
-✨ Mobile-First Design Approach
+✨ Modern Coffee Shop Branding <br />
+✨ Responsive User Interface  <br /> 
+✨ Clean Typography & Layouts  <br />
+✨ Customer-Friendly Navigation <br />
+✨ Optimized User Experience (UX) <br />
+✨ Mobile-First Design Approach <br />
 
 ---
 
@@ -130,10 +128,10 @@ Daily | 7:00 AM – 9:00 PM
 
 # 📬 Contact Information
 
-📧 Email: [brewandbean.cafe@gmail.com](mailto:brewandbean.cafe@gmail.com)
+📧 Email: [brewandbean.cafe@gmail.com](mailto:brewandbean.cafe@gmail.com)<br>
 📞 Phone: +94 71 255 3900
 
-📸 Instagram: @brewandbean_cafe
+📸 Instagram: @brewandbean_cafe<br>
 🌐 Website: [www.brewandbean.com](http://www.brewandbean.com)
 
 ---
@@ -178,6 +176,8 @@ brew-and-bean/
 │
 └── README.md
 ```
+
+---
 Thank you for choosing Brew & Bean — where every cup is crafted with care.
 ## ☕ "Sip. Relax. Repeat."
 
